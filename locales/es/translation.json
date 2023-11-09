@@ -94,8 +94,6 @@
     "aboutDataSentence": "Las palabras para este juego se obtuvieron de <1>{{wordListSource}}</1>. ",
     "aboutOriginalSentence": "También puedes jugar la original <1>aquí</1>",
     "languages": {
-        "it": "arpitan de Saviése",
-        "fr": "français",
         "en": "English",
         "es": "español",
         "sw": "kiswahili",
