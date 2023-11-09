@@ -95,6 +95,8 @@
     "aboutOriginalSentence": "You can also play the original  <1>here</1>",
     "languages": {
         "en": "Chavyéjan et ORB",
-        "es": "Chavyéjan et Français"
+        "es": "Chavyéjan et Français",
+        "sw": "Kiswahili",
+        "zh": "中文"
     }
 }
