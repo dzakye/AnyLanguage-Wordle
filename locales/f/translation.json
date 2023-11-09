@@ -4,7 +4,7 @@
     "enterKey": "Via (Valider)",
     "deleteKey": "Canséwa (Effacer)",
     "notEnoughLetters": "Pa prou dé wétré (Pas assez de lettres)",
-    "wordNotFound": ""Mòse pa trowa (Mot pas trouvé)",
+    "wordNotFound": "Mòse pa trowa (Mot pas trouvé)",
     "solution": "I mòse ir.e (Le mot étaitj) {{solution}}",
     "gameCopied": "Le jeu a été copié dans le presse-papier",
     "howToPlay": "Commet jouer",
@@ -96,10 +96,11 @@
     "aboutDataSentence": "The words for this game were sourced from <1>{{wordListSource}}</1>. ",
     "aboutOriginalSentence": "You can also play the original  <1>here</1>",
     "languages": {
-        "arp": "Arpitan"
-		"en": "English",
-        "es": "Español",
-        "sw": "Kiswahili",
+        "arp": "arpitan",
+	"f": "français",
+	"en": "English",
+        "es": "español",
+        "sw": "kiswahili",
         "zh": "中文"
     }
 }
