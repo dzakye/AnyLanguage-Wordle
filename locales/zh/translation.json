@@ -89,6 +89,7 @@
     "aboutDataSentence": "本遊戲的單詞來源為 <1>{{wordListSource}}</1>。",
     "aboutOriginalSentence": "您也可以前往 <1>here</1> 玩一玩原版的 Wordle 喔！",
     "languages": {
+        "arp": "Arpitan de Saviése"
         "en": "English",
         "es": "Español",
         "sw": "Kiswahili",
