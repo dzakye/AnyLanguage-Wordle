@@ -1,0 +1,105 @@
+{
+    "about": "A propos de ce jeu",
+    "gameName": "Pas-un-Wordle - {{language}}",
+    "enterKey": "Via (Valider)",
+    "deleteKey": "Canséwa (Effacer)",
+    "notEnoughLetters": "Pa prou dé wétré (Pas assez de lettres)",
+    "wordNotFound": ""Mòse pa trowa (Mot pas trouvé)",
+    "solution": "I mòse ir.e (Le mot étaitj) {{solution}}",
+    "gameCopied": "Le jeu a été copié dans le presse-papier",
+    "howToPlay": "Commet jouer",
+    "instructions": "Essayer {{tries}} fois de touver le mot. À chaque essai, les lettres du mot que vous avez proposé changeront de couleur en fonction de à quel point vous êtes proche de le trouver.",
+    "pickYourLanguage": "Choisir la langue",
+    "correctSpotInstructions": "La lettre A est dans le mot, à la bonne place.",
+    "wrongSpotInstructions": "La lettre N est dans le mot, mais pas à la bonne place.",
+    "notInWordInstructions": "La lettre C n'est pas dans le mot.",
+    "guessDistribution": "Guess Distribution",
+    "statistics": "Statistikyé",
+    "totalTries": "Aprowa vwér.ó (Nombre d'essais)",
+    "successRate": "Tó dé socsé (Taux de succès)",
+    "currentStreak": "Tir.e (File de réussites)",
+    "bestStreak": "Meloja tir.e (Succès d'affilé)",
+    "newWordCountdown": "Nówéi mòse d'ichya (Nouveau mot dans)",
+    "share": "Partadjye (Partager)",
+    "winMessages": [
+        "Oustréwe! - Merveilleux",
+        "Pa a crêre! - Incroyable!",
+        "P'amor dé Djyo! - Mon Dieu!",
+	"É-t-e pochibló!? - Est-ce possible!?",
+	"Chó 'ra! - Ca alors!",
+    ],
+    "firstExampleWord": [{
+            "letter": "A",
+            "highlight": true
+        },
+        {
+            "letter": "M",
+            "highlight": false
+        },
+        {
+            "letter": "O",
+            "highlight": false
+        },
+        {
+            "letter": "J",
+            "highlight": false
+        },
+        {
+            "letter": "A",
+            "highlight": false
+        }
+    ],
+    "secondExampleWord": [{
+            "letter": "R",
+            "highlight": false
+        },
+        {
+            "letter": "O",
+            "highlight": false
+        },
+        {
+            "letter": "N",
+            "highlight": true
+        },
+        {
+            "letter": "D",
+            "highlight": false
+        },
+        {
+            "letter": "Ó",
+            "highlight": false
+        }
+    ],
+    "thirdExampleWord": [{
+            "letter": "T",
+            "highlight": false
+        },
+        {
+            "letter": "S",
+            "highlight": false
+        },
+        {
+            "letter": "O",
+            "highlight": false
+        },
+        {
+            "letter": "C",
+            "highlight": true
+        },
+        {
+            "letter": "Ó",
+            "highlight": false
+        }
+    ],
+    "aboutAuthorSentence": "This is an open source clone of the game Wordle adapted to {{language}} by <3>{{author}}</3>. ",
+    "aboutCodeSentence": "Check out <1>the original code</1> by <3>Hannah Park</3> or have a look at <5>Aidan Pine's fork</5> and customize it for another language! ",
+    "aboutDataSentence": "The words for this game were sourced from <1>{{wordListSource}}</1>. ",
+    "aboutOriginalSentence": "You can also play the original  <1>here</1>",
+    "languages": {
+        "arp": "Arpitan"
+		"en": "English",
+        "es": "Español",
+        "sw": "Kiswahili",
+        "zh": "中文"
+    }
+}
