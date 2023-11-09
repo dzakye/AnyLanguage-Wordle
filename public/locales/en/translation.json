@@ -94,10 +94,11 @@
     "aboutDataSentence": "The words for this game were sourced from <1>{{wordListSource}}</1>. ",
     "aboutOriginalSentence": "You can also play the original  <1>here</1>",
     "languages": {
-        "arp": "Arpitan de Saviése",
+        "arp": "arpitan de Saviése",
+        "f": "français",
         "en": "English",
-        "es": "Español",
-        "sw": "Kiswahili",
+        "es": "español",
+        "sw": "kiswahili",
         "zh": "中文"
     }
 }
