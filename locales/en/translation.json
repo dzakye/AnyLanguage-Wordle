@@ -94,7 +94,6 @@
     "aboutDataSentence": "The words for this game were sourced from <1>{{wordListSource}}</1>. ",
     "aboutOriginalSentence": "You can also play the original  <1>here</1>",
     "languages": {
-        "arp": "Arpitan"
         "en": "English",
         "es": "Español",
         "sw": "Kiswahili",
