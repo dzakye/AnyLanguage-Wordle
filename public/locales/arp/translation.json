@@ -1,91 +1,93 @@
 {
     "about": "A própó dé sti dzwa",
-    "gameName": "Not Wordle - {{language}}",
+    "gameName": "Pa-Wordle - {{language}}",
     "enterKey": "Via",
-    "deleteKey": "Delete",
+    "deleteKey": "Canséwa",
     "notEnoughLetters": "Pa prou dé wétré (Pas prod de lètres)",
     "wordNotFound": "Mòse pa trowa",
     "solution": "I mòse ir.e {{solution}}",
-    "gameCopied": "Game copied to clipboard",
-    "howToPlay": "Cómin dzowe (Coument jouyér)",
-    "instructions": "Aprowe {{tries}} âdzó dé trówa ó mòse. Apréi tsekye própósichyon, i cooo di caron van tsandjye pó té dér.e chin kyé t'a ëndinna.",
+    "gameCopied": "Dzwa cópia dr'ou précha-papē",
+    "howToPlay": "Cómin dzowe (Coment jouyér)",
+    "instructions": "Aprowe {{tries}} âdzó dé trówa ó mòse. Apréi tsekye própósichyon, i coōo di caron van tsandjye pó té dér.e chin kyé t'a ëndinna.",
     "pickYourLanguage": "Chédre a winga (Cièrdre la lengoua)",
-    "correctSpotInstructions": "I wétra W l'é jesta é â bóna placha.",
-    "wrongSpotInstructions": "I wétra L l'é dr'ou mòse ma pa wéi.",
-    "notInWordInstructions": "I wétra U l'é pas dr'ou mòse.",
+    "correctSpotInstructions": "I wétra A l'é jesta é â bóna plache. (Li lètra A 'l est justa et a la bôna place.",
+    "wrongSpotInstructions": "I wétra N l'é dr'ou mòse ma pa a sta placha. (Li lètra N 'l est dr'u mot mas pas a ceta place.",
+    "notInWordInstructions": "I wétra C l'é rin tsóuja dr'ou mòse.(Li lètra C 'l ren chousa dens u mot.",
     "guessDistribution": "Guess Distribution",
     "statistics": "Statistikyé",
     "totalTries": "Aprowa vwéro",
     "successRate": "Tó dé socsé",
-    "currentStreak": "Current streak",
-    "bestStreak": "Best streak",
+    "currentStreak": "Tir.e dé óra.",
+    "bestStreak": "Meloja tir.e (Mèlyosa tire)",
     "newWordCountdown": "Nówéi mòse d'ichya",
     "share": "Partadjye",
     "winMessages": [
         "Oustréwe!",
         "Pa a crêre!",
-        "P'amor dé Djyo!"
+        "P'amor dé Djyo!",
+	 "É-t-e pochibló!",
+	"Chó 'ra!",
     ],
     "firstExampleWord": [{
-            "letter": "W",
-            "highlight": true
-        },
-        {
-            "letter": "E",
-            "highlight": false
-        },
-        {
             "letter": "A",
-            "highlight": false
-        },
-        {
-            "letter": "R",
-            "highlight": false
-        },
-        {
-            "letter": "Y",
-            "highlight": false
-        }
-    ],
-    "secondExampleWord": [{
-            "letter": "P",
-            "highlight": false
-        },
-        {
-            "letter": "I",
-            "highlight": false
-        },
-        {
-            "letter": "L",
             "highlight": true
+        },
+        {
+            "letter": "M",
+            "highlight": false
         },
         {
             "letter": "O",
             "highlight": false
         },
         {
-            "letter": "T",
-            "highlight": false
-        }
-    ],
-    "thirdExampleWord": [{
-            "letter": "V",
+            "letter": "J",
             "highlight": false
         },
         {
             "letter": "A",
             "highlight": false
-        },
-        {
-            "letter": "G",
+        }
+    ],
+    "secondExampleWord": [{
+            "letter": "R",
             "highlight": false
         },
         {
-            "letter": "U",
+            "letter": "O",
+            "highlight": false
+        },
+        {
+            "letter": "N",
             "highlight": true
         },
         {
-            "letter": "E",
+            "letter": "D",
+            "highlight": false
+        },
+        {
+            "letter": "Ó",
+            "highlight": false
+        }
+    ],
+    "thirdExampleWord": [{
+            "letter": "T",
+            "highlight": false
+        },
+        {
+            "letter": "S",
+            "highlight": false
+        },
+        {
+            "letter": "O",
+            "highlight": false
+        },
+        {
+            "letter": "C",
+            "highlight": true
+        },
+        {
+            "letter": "Ó",
             "highlight": false
         }
     ],
@@ -95,7 +97,7 @@
     "aboutOriginalSentence": "You can also play the original  <1>here</1>",
     "languages": {
         "arp": "Arpitan"
-		"en": "English",
+	"en": "English",
         "es": "Español",
         "sw": "Kiswahili",
         "zh": "中文"
