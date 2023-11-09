@@ -1,0 +1,106 @@
+{
+    "about": "A própó dé sti dzwa",
+    "gameName": "Pa-Wordle - {{language}}",
+    "enterKey": "Via",
+    "deleteKey": "Canséwa",
+    "notEnoughLetters": "Pa prou dé wétré (Pas prod de lètres)",
+    "wordNotFound": "Mòse pa trowa",
+    "solution": "I mòse ir.e {{solution}}",
+    "gameCopied": "Dzwa cópia dr'ou précha-papē",
+    "howToPlay": "Cómin dzowe (Coment jouyér)",
+    "instructions": "Aprowe {{tries}} âdzó dé trówa ó mòse. Apréi tsekye própósichyon, i coōo di caron van tsandjye pó té dér.e chin kyé t'a ëndinna.",
+    "pickYourLanguage": "Chédre a winga (Cièrdre la lengoua)",
+    "correctSpotInstructions": "I wétra A l'é jesta é â bóna plache. (Li lètra A 'l est justa et a la bôna place.",
+    "wrongSpotInstructions": "I wétra N l'é dr'ou mòse ma pa a sta placha. (Li lètra N 'l est dr'u mot mas pas a ceta place.",
+    "notInWordInstructions": "I wétra C l'é rin tsóuja dr'ou mòse.(Li lètra C 'l ren chousa dens u mot.",
+    "guessDistribution": "Guess Distribution",
+    "statistics": "Statistikyé",
+    "totalTries": "Aprowa vwéro",
+    "successRate": "Tó dé socsé",
+    "currentStreak": "Tir.e dé óra.",
+    "bestStreak": "Meloja tir.e (Mèlyosa tire)",
+    "newWordCountdown": "Nówéi mòse d'ichya",
+    "share": "Partadjye",
+    "winMessages": [
+        "Oustréwe!",
+        "Pa a crêre!",
+        "P'amor dé Djyo!",
+	 "É-t-e pochibló!",
+	"Chó 'ra!",
+    ],
+    "firstExampleWord": [{
+            "letter": "A",
+            "highlight": true
+        },
+        {
+            "letter": "M",
+            "highlight": false
+        },
+        {
+            "letter": "O",
+            "highlight": false
+        },
+        {
+            "letter": "J",
+            "highlight": false
+        },
+        {
+            "letter": "A",
+            "highlight": false
+        }
+    ],
+    "secondExampleWord": [{
+            "letter": "R",
+            "highlight": false
+        },
+        {
+            "letter": "O",
+            "highlight": false
+        },
+        {
+            "letter": "N",
+            "highlight": true
+        },
+        {
+            "letter": "D",
+            "highlight": false
+        },
+        {
+            "letter": "Ó",
+            "highlight": false
+        }
+    ],
+    "thirdExampleWord": [{
+            "letter": "T",
+            "highlight": false
+        },
+        {
+            "letter": "S",
+            "highlight": false
+        },
+        {
+            "letter": "O",
+            "highlight": false
+        },
+        {
+            "letter": "C",
+            "highlight": true
+        },
+        {
+            "letter": "Ó",
+            "highlight": false
+        }
+    ],
+    "aboutAuthorSentence": "This is an open source clone of the game Wordle adapted to {{language}} by <3>{{author}}</3>. ",
+    "aboutCodeSentence": "Check out <1>the original code</1> by <3>Hannah Park</3> or have a look at <5>Aidan Pine's fork</5> and customize it for another language! ",
+    "aboutDataSentence": "The words for this game were sourced from <1>{{wordListSource}}</1>. ",
+    "aboutOriginalSentence": "You can also play the original  <1>here</1>",
+    "languages": {
+        "arp": "arpitan de Saviése",
+	    "f": "français",
+	"en": "English",
+        "es": "español",
+        "sw": "kiswahili",
+        "zh": "中文"
+    }
+}
