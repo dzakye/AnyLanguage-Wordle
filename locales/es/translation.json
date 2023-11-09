@@ -94,9 +94,7 @@
     "aboutDataSentence": "Las palabras para este juego se obtuvieron de <1>{{wordListSource}}</1>. ",
     "aboutOriginalSentence": "También puedes jugar la original <1>aquí</1>",
     "languages": {
-        "en": "English",
-        "es": "español",
-        "sw": "kiswahili",
-        "zh": "中文"
+        "en": "Chavyéjan et ORB",
+        "es": "Chavyéjan et Français"
     }
 }
