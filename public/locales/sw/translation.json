@@ -94,10 +94,8 @@
     "aboutDataSentence": "Neno za mchezo huu zilitoa kutoka <1>{{wordListSource}}</1>. ",
     "aboutOriginalSentence": "Unaweza kucheza mchezo awali <1>hapa</1>",
     "languages": {
-        "it": "arpitan de Saviése",
-        "fr": "français",
-        "en": "English",
-        "es": "español",
+        "en": "Chavyejan et ORB",
+        "es": "Chavyeje et Francais",
         "sw": "kiswahili",
         "zh": "中文"
     }
