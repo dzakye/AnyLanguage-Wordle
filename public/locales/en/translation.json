@@ -1,8 +1,8 @@
 {
     "about": "A própó dé sti dzwa",
-    "gameName": "Not Wordle - {{language}}",
-    "enterKey": "Enter",
-    "deleteKey": "Delete",
+    "gameName": "Pa Wordle - {{language}}",
+    "enterKey": "Vawida",
+    "deleteKey": "Éfache",
     "notEnoughLetters": "Not enough letters",
     "wordNotFound": "Word not found",
     "solution": "The word was {{solution}}",
