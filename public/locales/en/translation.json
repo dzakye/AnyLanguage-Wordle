@@ -91,10 +91,10 @@
             "highlight": false
         }
     ],
-    "aboutAuthorSentence": "Cen l est un clôno du juè \"Wordle adaptâ a {{language}} de <3>{{author}}</3>. ",
-    "aboutCodeSentence": "Alâd pire vêre lo <1>codo d'origine</1> de <3>Hannah Park</3> ou regardâd vèr la <5>\"forche\" de Aidan Pine</5> et adaptâd pire a la voutra lengoua! ",
-    "aboutDataSentence": "Les mots por ceti juè sont étâ trovâs lé: <1>{{wordListSource}}</1>. ",
-    "aboutOriginalSentence": "Vos pouede\/povéd sûr jouyér lo juè originâl <1>sely\/enque</1>",
+    "aboutAuthorSentence": "Chin l'é oun clónó dou dzwa (Cen l est un clôno du juè) \"Wordle adata a (adaptâ a) {{language}} pé\/dé <3>{{author}}</3>. ",
+    "aboutCodeSentence": "Aa pye vêre ó (Alâd pire vêre lo) <1>códó d'orijine (côdo d'origine)</1> dé <3>Hannah Park</3> ou regardâd\/agouétéd vèr la <5>\"forche\" de Aidan Pine</5> é adata è pye â vóoutra winga! (et adaptâd pire a la voutra lengoua!) ",
+    "aboutDataSentence": "É mòse pó sti dzwa chon ita trówa wéi: (Les mots por ceti juè sont étâ trovâs lé:) <1>{{wordListSource}}</1>. ",
+    "aboutOriginalSentence": "Vó poudé chwēe dzowe a méróouwa d'orijine  (Vos pouede\/povéd sûr jouyér lo juè originâl) <1>¨chéla (selya) \/ënkyé (enque)</1>",
     "languages": {
         "en": "Chavyéjan et ORB",
         "es": "Chavyéjan et Français",
