@@ -787,7 +787,7 @@ export const WORDS = [
   'akita',
   'féita',
   'tsóou',
-  'rócha'  
+  'rócha',  
 ]
 
 if (CONFIG.normalization) {
