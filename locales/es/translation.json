@@ -1,42 +1,36 @@
 {
-    "about": "Acerca de este juego",
-    "gameName": "No Wordle - {{language}}",
-    "enterKey": "Enviar",
-    "deleteKey": "Eliminar",
-    "notEnoughLetters": "No hay suficientes letras",
-    "wordNotFound": "Palabra no encontrada",
-    "solution": "La palabra era {{solution}}",
-    "gameCopied": "Juego copiado al portapapeles",
-    "howToPlay": "Cómo jugar",
-    "instructions": "Adivina la palabra en {{tries}} intentos. Después de cada intento, el color de las letras cambiará para mostrar qué tan cerca estás de acertar la palabra.",
-    "pickYourLanguage": "Elige un idioma",
-    "correctSpotInstructions": "La letra T se encuentra en la palabra y está en la posición correcta.",
-    "wrongSpotInstructions": "La letra N se encuentra en la palabra pero en la posición incorrecta.",
-    "notInWordInstructions": "La letra O no se encuentra en la palabra.",
-    "guessDistribution": "Distribución de aciertos",
-    "statistics": "Estadísticas",
-    "totalTries": "Jugadas",
-    "successRate": "Victorias",
-    "currentStreak": "Racha actual",
-    "bestStreak": "Mejor racha",
-    "newWordCountdown": "Nueva palabra en",
-    "share": "Compartir",
+    "about": "A própó dé sti dzwa (A propos de ce jeu)",
+    "gameName": "Mó-dé-sën - {{language}}",
+    "enterKey": "Via (Ok)",
+    "deleteKey": "Canséwa (Effacer)",
+    "notEnoughLetters": "Pa prou dé wétré (Pas assez de lettres)",
+    "wordNotFound": "Mòse pa trowa (Mot pas trouvé)",
+    "solution": "I mòse ir.e {{solution}} (Le mot était...)",
+    "gameCopied": "Dzwa cópia dr'ou précha-papē (Mot copié dans le presse-papier",
+    "howToPlay": "Cómin dzowe (Comment jouer)",
+    "instructions": "Aprowe {{tries}} âdzó dé trówa ó mòse (Essaie ... fois de trouver le mot). Apréi tsekye própósichyon (Après chaque proposition), i coōo di caron va tsandjye (la couleur des cases va changer) pó té dér.e chin kyé t'a rouchi a ëndinna (pour te dire ce que tu as réussi à deviner). ",
+    "pickYourLanguage": "Chédre a winga (Choisir la langue)",
+    "correctSpotInstructions": "I wétra A l'é jesta é â bóna plache. (La lettre A est juste et à la bonne place.)",
+    "wrongSpotInstructions": "I wétra N l'é dr'ou mòse ma pa a sta placha. (La lettre N est dans le mot mais pas à cet endroit.)",
+    "notInWordInstructions": "I wétra C l'é rin tsóuja dr'ou mòse.(La lettre C n'est pas du tout dans ce mot.)",
+    "guessDistribution": "Modó d'ndinna (Manières de deviner) ",
+    "statistics": "Statistikyé (Statistiques)",
+    "totalTries": "Aprowa vwéro (Nombre d'essais)",
+    "successRate": "Tó dé socsé (Taux de succès)",
+    "currentStreak": "Tir.e dé óra (Réusites d'affilées)",
+    "bestStreak": "Meloja tir.e (Meilleure suite de réussites)",
+    "newWordCountdown": "Nówéi mòse d ichya (Noveau mot dans)",
+    "share": "Partadjye (Partager)",
     "winMessages": [
-        "¡Gran trabajo!",
-        "Increíble",
-        "¡Bien hecho!"
+        "Oustréwe! (Fantastique!)",
+        "Pa a crêre! (Incroyabe!)",
+        "P amor dé Djyo! (Pour l'amour de Dieu!)",
+	 "É-t-e pochibló!? (Est-ce possible!?)",
+	"Chó  ra! (Ca alors!)"
     ],
     "firstExampleWord": [{
-            "letter": "T",
-            "highlight": true
-        },
-        {
-            "letter": "R",
-            "highlight": false
-        },
-        {
             "letter": "A",
-            "highlight": false
+            "highlight": true
         },
         {
             "letter": "M",
@@ -45,14 +39,22 @@
         {
             "letter": "O",
             "highlight": false
-        }
-    ],
-    "secondExampleWord": [{
-            "letter": "G",
+        },
+        {
+            "letter": "J",
             "highlight": false
         },
         {
             "letter": "A",
+            "highlight": false
+        }
+    ],
+    "secondExampleWord": [{
+            "letter": "R",
+            "highlight": false
+        },
+        {
+            "letter": "O",
             "highlight": false
         },
         {
@@ -60,39 +62,39 @@
             "highlight": true
         },
         {
-            "letter": "A",
+            "letter": "D",
             "highlight": false
         },
         {
-            "letter": "S",
+            "letter": "Ó",
             "highlight": false
         }
     ],
     "thirdExampleWord": [{
-            "letter": "R",
-            "highlight": false
-        },
-        {
-            "letter": "E",
-            "highlight": false
-        },
-        {
             "letter": "T",
             "highlight": false
         },
         {
+            "letter": "S",
+            "highlight": false
+        },
+        {
             "letter": "O",
+            "highlight": false
+        },
+        {
+            "letter": "C",
             "highlight": true
         },
         {
-            "letter": "S",
+            "letter": "Ó",
             "highlight": false
         }
     ],
-    "aboutAuthorSentence": "Este es un clon de código abierto del juego Wordle adaptado a {{language}} por <3>{{author}}</3>. ",
-    "aboutCodeSentence": "Echa un vistazo al <1>código original</1> de <3>Hannah Park</3> o echa un vistazo al <5>fork de Aidan Pine</5> y personalízalo para otro idioma. ",
-    "aboutDataSentence": "Las palabras para este juego se obtuvieron de <1>{{wordListSource}}</1>. ",
-    "aboutOriginalSentence": "También puedes jugar la original <1>aquí</1>",
+    "aboutAuthorSentence": "Chin l'é oun clónó dou dzwa (Ceci est un clône du jeu) \"Wordle adata a (adapté à) {{language}} pé\/dé (par) <3>{{author}}</3>. ",
+    "aboutCodeSentence": "Aa pye vêre ó (Allez donc voir le) <1>códó d'orijine (code d'origine)</1> dé <3>Hannah Park</3> ou regardâd vèr la <5>\"forche\" (ici: copie) de Aidan Pine</5> é adata è pye â vóoutra winga! (et adaptez-la à votre langue!) ",
+    "aboutDataSentence": "É mòse pó sti dzwa chon ita trówa wéi: (Les mots de ce jeu sont tirés d'ici:) <1>{{wordListSource}}</1>. ",
+    "aboutOriginalSentence": "Vó poudé chwēe dzowe a méróouwa d'orijine  (Vous pouvez bien sûr jouer le jeu d'origine) <1>¨chéla\/ënkyé (ici)</1>",
     "languages": {
         "en": "Chavyéjan et ORB",
         "es": "Chavyéjan et Français",
@@ -100,3 +102,4 @@
         "zh": "中文"
     }
 }
+
