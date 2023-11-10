@@ -8,7 +8,7 @@
     "solution": "I mòse ir.e {{solution}} (Le mot était...)",
     "gameCopied": "Dzwa cópia dr'ou précha-papē (Mot copié dans le presse-papier",
     "howToPlay": "Cómin dzowe (Comment jouer)",
-    "instructions": "Aprowe {{tries}} âdzó dé trówa ó mòse (Essaie ... fois de trouver le mot). Apréi tsekye própósichyon (Après chaque proposition), i coōo di caron va tsandjye (la couleur des cases va changer) pó té dér.e chin kyé t'a rouchi a ëndinna (pour te dire ce que tu as réussi à deviner). ",
+    "instructions": "Aprowe {{tries}} âdzó dé trówa ó mòse (Essaie {{tries}} fois de trouver le mot). </br> Apréi tsekye própósichyon (Après chaque proposition), i coōo di caron va tsandjye (la couleur des cases va changer) pó té dér.e chin kyé t'a rouchi a ëndinna (pour te dire ce que tu as réussi à deviner). ",
     "pickYourLanguage": "Chédre a winga (Choisir la langue)",
     "correctSpotInstructions": "I wétra A l'é jesta é â bóna plache. (La lettre A est juste et à la bonne place.)",
     "wrongSpotInstructions": "I wétra N l'é dr'ou mòse ma pa a sta placha. (La lettre N est dans le mot mais pas à cet endroit.)",
