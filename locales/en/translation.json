@@ -13,20 +13,20 @@
     "correctSpotInstructions": "I wétra A l é jesta é â bóna plache. (Li lètra A  l est justa et a la bôna place.",
     "wrongSpotInstructions": "I wétra N l é dr ou mòse ma pa a sta placha. (Li lètra N  l est dr u mot mas pas a ceta place.",
     "notInWordInstructions": "I wétra C l é rin tsóuja dr ou mòse.(Li lètra C  l ren chousa dens u mot.",
-    "guessDistribution": "Guess Distribution",
-    "statistics": "Statistikyé",
-    "totalTries": "Aprowa vwéro",
-    "successRate": "Tó dé socsé",
-    "currentStreak": "Tir.e dé óra.",
+    "guessDistribution": "Módó d ëndinna (Môdo d endevinar) ",
+    "statistics": "Statistikyé (Statistiques)",
+    "totalTries": "Aprowa vwéro (Èprovâ gouèro)",
+    "successRate": "Tó dé socsé (Tôx de succès)",
+    "currentStreak": "Tir.e dé óra (Tire de ora)",
     "bestStreak": "Meloja tir.e (Mèlyosa tire)",
-    "newWordCountdown": "Nówéi mòse d ichya",
-    "share": "Partadjye",
+    "newWordCountdown": "Nówéi mòse d ichya (Novél mot d ici a)",
+    "share": "Partadjye (Partagiér)",
     "winMessages": [
-        "Oustréwe!",
-        "Pa a crêre!",
-        "P amor dé Djyo!",
-	 "É-t-e pochibló!",
-	"Chó  ra!"
+        "Oustréwe! (Ustrél!)",
+        "Pa a crêre! (Pas a crêre!)",
+        "P amor dé Djyo! (P l amor de Diô)",
+	 "É-t-e pochibló!? (Est-il possiblo!?)",
+	"Chó  ra! (Co ra!)"
     ],
     "firstExampleWord": [{
             "letter": "A",
@@ -91,10 +91,10 @@
             "highlight": false
         }
     ],
-    "aboutAuthorSentence": "This is an open source clone of the game Wordle adapted to {{language}} by <3>{{author}}</3>. ",
-    "aboutCodeSentence": "Check out <1>the original code</1> by <3>Hannah Park</3> or have a look at <5>Aidan Pine s fork</5> and customize it for another language! ",
-    "aboutDataSentence": "The words for this game were sourced from <1>{{wordListSource}}</1>. ",
-    "aboutOriginalSentence": "You can also play the original  <1>here</1>",
+    "aboutAuthorSentence": "Cen l est un clôno du juè \"Wordle adaptâ a {{language}} de <3>{{author}}</3>. ",
+    "aboutCodeSentence": "Alâd pire vêre lo <1>codo d'origine</1> de <3>Hannah Park</3> ou regardâd vèr la <5>\"forche\" de Aidan Pine</5> et adaptâd pire a la voutra lengoua! ",
+    "aboutDataSentence": "Les mots por ceti juè sont étâ trovâs lé: <1>{{wordListSource}}</1>. ",
+    "aboutOriginalSentence": "Vos pouede\/povéd sûr jouyér lo juè originâl <1>sely\/enque</1>",
     "languages": {
         "en": "Chavyéjan et ORB",
         "es": "Chavyéjan et Français",
