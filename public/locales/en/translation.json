@@ -96,7 +96,7 @@
     "aboutDataSentence": "É mòse pó sti dzwa chon ita trówa wéi: (Les mots por ceti juè sont étâ trovâs lé:) <1>{{wordListSource}}</1>. ",
     "aboutOriginalSentence": "Vó poudé chwēe dzowe a méróouwa d'orijine  (Vos pouede\/povéd sûr jouyér lo juè originâl) <1>¨chéla (selya) \/ënkyé (enque)</1>",
     "languages": {
-        "en": "Saviésan en ORB",
-        "es": "Chavyéjan (Français)"
+        "arp": "Saviésan en ORB",
+        "fr": "Chavyéjan (Français)"
     }
 }

@@ -96,8 +96,8 @@
     "aboutDataSentence": "É mòse pó sti dzwa chon ita trówa wéi: (Les mots de ce jeu sont tirés d'ici:) <1>{{wordListSource}}</1>. ",
     "aboutOriginalSentence": "Vó poudé chwēe dzowe a méróouwa d'orijine  (Vous pouvez bien sûr jouer le jeu d'origine) <1>¨chéla\/ënkyé (ici)</1>",
     "languages": {
-        "en": "Saviésan en ORB",
-        "es": "Chavyéjan (Français)"
+        "arp": "Saviésan en ORB",
+        "fr": "Chavyéjan (Français)"
     }
 }
 
