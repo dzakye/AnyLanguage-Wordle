@@ -530,7 +530,6 @@ export const WORDS = [
   'wâfra',
   'placa',
   'wééta',
-  'tsacrou',
   'nyona',
   'myówa',
   'râtse',
