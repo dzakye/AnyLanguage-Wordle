@@ -94,9 +94,9 @@
     "aboutDataSentence": "Las palabras para este juego se obtuvieron de <1>{{wordListSource}}</1>. ",
     "aboutOriginalSentence": "También puedes jugar la original <1>aquí</1>",
     "languages": {
-        "en": "English",
+        "arp": "Saviésan en ORB",
+        "fr": "Chavyéjan (Français)",
         "es": "Español",
-        "sw": "Kiswahili",
-        "zh": "中文"
+        "en": "English"
     }
 }

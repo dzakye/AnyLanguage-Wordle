@@ -1,102 +1,102 @@
 {
-    "about": "A propôs de ceti juè",
-    "gameName": "Mot-de-cenq- {{language}}",
-    "enterKey": "Via",
-    "deleteKey": "Cancèlar",
-    "notEnoughLetters": "Pas prod de lètres",
-    "wordNotFound": "Mot pas trovâ",
-    "solution": "Li mot ére {{solution}}",
-    "gameCopied": "Mot copiâ dens u prêssa-papiér",
-    "howToPlay": "Coment jouyér",
-    "instructions": "Èprôves {{tries}} viâjos de trovar lo mot. Aprés chaque proposicion, li codo des carrons va changiér por tè dére cen que t'as reussi a endevinar.",
-    "pickYourLanguage": "Cièrdre la lengoua",
-    "correctSpotInstructions": "Li lètra A  l'est justa et a la bôna place.",
-    "wrongSpotInstructions": "Li lètra N  l'est dens u mot mas pas a ceta place.",
-    "notInWordInstructions": "Li lètra C l' est pas dens u mot.",
-    "guessDistribution": "Môdo\/Maniére d'endevinar",
-    "statistics": "Statistiques",
-    "totalTries": "Viâjo que t'as èprovâ",
-    "successRate": "Tôx de reussita",
-    "currentStreak": "Tire de ora",
-    "bestStreak": "Mèlosa tire)",
-    "newWordCountdown": "Novél mot d'ici a",
-    "share": "Partagiér",
+    "about": "About this game",
+    "gameName": "Not Wordle - {{language}}",
+    "enterKey": "Enter",
+    "deleteKey": "Delete",
+    "notEnoughLetters": "Not enough letters",
+    "wordNotFound": "Word not found",
+    "solution": "The word was {{solution}}",
+    "gameCopied": "Game copied to clipboard",
+    "howToPlay": "How to play",
+    "instructions": "Guess the word in {{tries}} tries. After each guess, the color of the tiles will change to show how close your guess was to the word.",
+    "pickYourLanguage": "Choose a language",
+    "correctSpotInstructions": "The letter W is in the word and in the correct spot.",
+    "wrongSpotInstructions": "The letter L is in the word but in the wrong spot.",
+    "notInWordInstructions": "The letter U is not in the word in any spot.",
+    "guessDistribution": "Guess Distribution",
+    "statistics": "Statistics",
+    "totalTries": "Total tries",
+    "successRate": "Success rate",
+    "currentStreak": "Current streak",
+    "bestStreak": "Best streak",
+    "newWordCountdown": "New word in",
+    "share": "Share",
     "winMessages": [
-        "Ustrél!",
-        "Pas a crêre!",
-        "P' l'amor de Diô!",
-	 "Est-il possiblo!?",
-	"Co ora!"
+        "Great Job!",
+        "Awesome",
+        "Well done!"
     ],
     "firstExampleWord": [{
-            "letter": "A",
+            "letter": "W",
             "highlight": true
         },
         {
-            "letter": "M",
-            "highlight": false
-        },
-        {
-            "letter": "O",
-            "highlight": false
-        },
-        {
-            "letter": "J",
+            "letter": "E",
             "highlight": false
         },
         {
             "letter": "A",
             "highlight": false
-        }
-    ],
-    "secondExampleWord": [{
+        },
+        {
             "letter": "R",
             "highlight": false
         },
         {
+            "letter": "Y",
+            "highlight": false
+        }
+    ],
+    "secondExampleWord": [{
+            "letter": "P",
+            "highlight": false
+        },
+        {
+            "letter": "I",
+            "highlight": false
+        },
+        {
+            "letter": "L",
+            "highlight": true
+        },
+        {
             "letter": "O",
             "highlight": false
         },
         {
-            "letter": "N",
-            "highlight": true
-        },
-        {
-            "letter": "D",
-            "highlight": false
-        },
-        {
-            "letter": "Ó",
+            "letter": "T",
             "highlight": false
         }
     ],
     "thirdExampleWord": [{
-            "letter": "T",
+            "letter": "V",
             "highlight": false
         },
         {
-            "letter": "S",
+            "letter": "A",
             "highlight": false
         },
         {
-            "letter": "O",
+            "letter": "G",
             "highlight": false
         },
         {
-            "letter": "C",
+            "letter": "U",
             "highlight": true
         },
         {
-            "letter": "Ó",
+            "letter": "E",
             "highlight": false
         }
     ],
-    "aboutAuthorSentence": "Chin l'é oun clónó dou dzwa (Cen l est un clôno du juè) \"Wordle adata a (adaptâ a) {{language}} pé\/dé <3>{{author}}</3>. ",
-    "aboutCodeSentence": "Aa pye vêre ó (Alâd pire vêre lo) <1>códó d'orijine (côdo d'origine)</1> dé <3>Hannah Park</3> ou regardâd\/agouétéd vèr la <5>\"forche\" de Aidan Pine</5> é adata è pye â vóoutra winga! (et adaptâd pire a la voutra lengoua!) ",
-    "aboutDataSentence": "É mòse pó sti dzwa chon ita trówa wéi: (Les mots por ceti juè sont étâ trovâs lé:) <1>{{wordListSource}}</1>. ",
-    "aboutOriginalSentence": "Vó poudé chwēe dzowe a méróouwa d'orijine  (Vos pouede\/povéd sûr jouyér lo juè originâl) <1>¨chéla (selya) \/ënkyé (enque)</1>",
+    "aboutAuthorSentence": "This is an open source clone of the game Wordle adapted to {{language}} by <3>{{author}}</3>. ",
+    "aboutCodeSentence": "Check out <1>the original code</1> by <3>Hannah Park</3> or have a look at <5>Aidan Pine's fork</5> and customize it for another language! ",
+    "aboutDataSentence": "The words for this game were sourced from <1>{{wordListSource}}</1>. ",
+    "aboutOriginalSentence": "You can also play the original  <1>here</1>",
     "languages": {
         "arp": "Saviésan en ORB",
-        "fr": "Chavyéjan (Français)"
+        "fr": "Chavyéjan (Français)",
+        "es": "Español",
+        "en": "English"
     }
 }
