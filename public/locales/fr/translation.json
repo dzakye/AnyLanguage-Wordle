@@ -1,18 +1,18 @@
 {
     "about": "A própó dé sti dzwa (A propos de ce jeu)",
-    "gameName": "Mó-dé-sën - {{language}}",
+    "gameName": "Mó-dé-sën {{language}}",
     "enterKey": "Via (Ok)",
     "deleteKey": "Canséwa (Effacer)",
     "notEnoughLetters": "Pa prou dé wétré (Pas assez de lettres)",
     "wordNotFound": "Mòse pa trowa (Mot pas trouvé)",
-    "solution": "I mòse ir.e {{solution}} (Le mot était...)",
-    "gameCopied": "Dzwa cópia dr'ou précha-papē (Mot copié dans le presse-papier",
+    "solution": "I mòse ir.e (Le mot était) {{solution}}",
+    "gameCopied": "Dzwa cópia dr'ou précha-papē (Mot copié dans le presse-papier)",
     "howToPlay": "Cómin dzowe (Comment jouer)",
     "instructions": "Aprowe {{tries}} âdzó dé trówa ó mòse (Essaie {{tries}} fois de trouver le mot). </br> Apréi tsekye própósichyon (Après chaque proposition), i coōo di caron va tsandjye (la couleur des cases va changer) pó té dér.e chin kyé t'a rouchi a ëndinna (pour te dire ce que tu as réussi à deviner). ",
     "pickYourLanguage": "Chédre a winga (Choisir la langue)",
-    "correctSpotInstructions": "I wétra A l'é jesta é â bóna plache. (La lettre A est juste et à la bonne place.)",
-    "wrongSpotInstructions": "I wétra N l'é dr'ou mòse ma pa a sta placha. (La lettre N est dans le mot mais pas à cet endroit.)",
-    "notInWordInstructions": "I wétra C l'é rin tsóuja dr'ou mòse.(La lettre C n'est pas du tout dans ce mot.)",
+    "correctSpotInstructions": "I wétra A 'l é jesta é â bóna plache. (La lettre A est juste et à la bonne place.)",
+    "wrongSpotInstructions": "I wétra N 'l é dr'ou mòse ma pa a sta placha. (La lettre N est dans le mot mais pas à cet endroit.)",
+    "notInWordInstructions": "I wétra C 'l é rin tsóuja dr'ou mòse.(La lettre C n'est pas du tout dans ce mot.)",
     "guessDistribution": "Modó d'ëndinna (Manières de deviner) ",
     "statistics": "Statistikyé (Statistiques)",
     "totalTries": "Aprowa vwéro (Nombre d'essais)",
@@ -24,9 +24,9 @@
     "winMessages": [
         "Oustréwe! (Fantastique!)",
         "Pa a crêre! (Incroyabe!)",
-        "P amor dé Djyo! (Pour l'amour de Dieu!)",
+        "P'amor dé Djyo! (Pour l'amour de Dieu!)",
 	 "É-t-e pochibló!? (Est-ce possible!?)",
-	"Chó  ra! (Ca alors!)"
+	"Chó 'ra! (Ca alors!)"
     ],
     "firstExampleWord": [{
             "letter": "A",
