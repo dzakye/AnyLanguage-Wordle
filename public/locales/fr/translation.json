@@ -92,9 +92,9 @@
         }
     ],
     "aboutAuthorSentence": "Chin l'é oun clónó dou dzwa (Ceci est un clône du jeu) \"Wordle adata a (adapté à) {{language}} pé\/dé (par) <3>{{author}}</3>. ",
-    "aboutCodeSentence": "Aa pye vêre ó (Allez donc voir le) <1>códó d'orijine (code d'origine)</1> dé <3>Hannah Park</3> ou regardâd vèr la <5>\"forche\" (ici: copie) de Aidan Pine</5> é adata è pye â vóoutra winga! (et adaptez-la à votre langue!) ",
+    "aboutCodeSentence": "Aa pye vêre ó (Allez donc voir le) <1>códó d'orijine (code d'origine)</1> dé <3>Hannah Park</3> ou râda a (regardez la) <5>\"forche\" (copie de code) de Aidan Pine</5> é adata è pye â vóoutra winga! (et adaptez-la donc à votre langue!) ",
     "aboutDataSentence": "É mòse pó sti dzwa chon ita trówa wéi: (Les mots de ce jeu sont tirés d'ici:) <1>{{wordListSource}}</1>. ",
-    "aboutOriginalSentence": "Vó poudé chwēe dzowe a méróouwa d'orijine  (Vous pouvez bien sûr jouer le jeu d'origine) <1>¨chéla\/ënkyé (ici)</1>",
+    "aboutOriginalSentence": "Vó poudé chwēe dzowe â méróouwa d'orijine  (Vous pouvez bien sûr jouer au jeu d'origine) <1>¨chéla\/ënkyé (ici)</1>",
     "languages": {
         "arp": "Saviésan en ORB",
         "fr": "Chavyéjan (Français)",
