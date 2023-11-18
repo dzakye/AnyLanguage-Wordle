@@ -100,7 +100,7 @@ export const WORDS = [
 'vioné',
 'afena',
 'saowa',
-'eriti',
+'eriti'
 ]
 
 if (CONFIG.normalization) {
